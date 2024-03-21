@@ -1,0 +1,5 @@
+﻿  Saper1.cpp
+C:\Users\Взрослая академия\Documents\Alex\Alex\Saper1\Saper1.cpp(9,14): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\Взрослая академия\Documents\Alex\Alex\Saper1\Saper1.cpp(9,16): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\Взрослая академия\Documents\Alex\Alex\Saper1\Saper1.cpp(395,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Saper1.vcxproj -> C:\Users\Взрослая академия\Documents\Alex\Alex\Saper1\x64\Debug\Saper1.exe
